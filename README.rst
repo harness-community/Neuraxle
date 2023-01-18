@@ -1,3 +1,6 @@
+Build & Test Neuraxle on Harness CI
+=======================================
+This is a fork of Neuraxle project. This repo can be used to demo the new capabilities of Harness CI. Please follow [these instructions](https://github.com/harness-community/Neuraxle/blob/main/.harness/README.md) on how to clone this repo and see the results yourself.
 
 Neuraxle Pipelines
 ==================
