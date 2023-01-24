@@ -1,13 +1,13 @@
 pipeline:
   name: test-neuraxle-public-release
   identifier: testneuraxlepublicrelease
-  projectIdentifier: DhrubaCI
+  projectIdentifier: default
   orgIdentifier: default
   tags: {}
   properties:
     ci:
       codebase:
-        connectorRef: dhrubaaccountconnector
+        connectorRef: scm-connector
         repoName: neuraxle
         build: <+input>
   stages:
